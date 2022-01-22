@@ -181,4 +181,48 @@
 //  var name1 = "Basit";
 //  var name2 = "Ali";                             
                                                           //Array ki wajh sy Line of Code bach jaty h ...
+
+
 //  var students = [ "Ghous" , "Basit" , "Ali"]             
+//  alert ("Welcome" +" "+ students[1])
+
+
+    //    HOW TO ASSIGN VALUE IN ARRAY
+
+// var names = [];
+
+// names[0] = "Ghous";
+// names[1] ="Ahmed";
+// names[2] = "Ali";
+
+// console.log(names)
+
+// ============================
+                            //    PROPERTIES
+
+//  var students = [ "Ghous" , "Basit" , "Ali"]             
+
+//  students.pop()               // remove end value
+
+//  students.push("Bilal","Zuhaib")   // push value to end
+ 
+// console.log(students)
+
+// =============================
+
+//  var students = [ "Ghous" , "Basit" , "Ali"]             
+
+//  students.shift()     // remove elements from start
+//  students.unshift("Bilal","Zuhaib")       // Add some value in the start of the array
+
+//  console.log(students)
+
+// =============================
+
+var students = [ "Ghous" , "Basit" , "Ali"]             
+
+
+
+
+
+ console.log(students)
