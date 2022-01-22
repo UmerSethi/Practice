@@ -1,0 +1,58 @@
+Class # 09 
+
+Video timing = 2:08:09
+JavaScript Start = 55:00
+
+
+NOTES :
+   SYNTAX : the way how you write code      
+
+          var a = 5;
+
+1) comment //
+2) store in patricular memory in Javascript
+3) var => keyword
+4) a => variable decalration
+5) =  => assigning operator
+6) 5 is a initialization 
+7) ; is a statement terminator
+
+8) Variable =>
+       (a)memory m ja kr ek space ko        reserve/allocate kr deta h 
+
+        (b) what variable does is ?
+Answer : Variable reserve the space into the          memory
+
+9) STRING : group of characters
+
+10) CONCATENATION : merging of 2 elements ("only work only with + sign....* , divide (/) ....m work nhi krta")
+
+11) How Computer understand Programming language not directly as human understand there are some level how a computer understand Programming language which steps are only for computer
+      (a)Translation
+      (b)Compilation
+      (c)Interpretation => line ba line translation
+      (d)Assembler                  1:30:05 (6:14p.m "Maghrib Namaz Break") to (6:41p.m)
+
+12) Variable legal or illegal (chatApp)
+
+13) 
+       (a)     var a = 5;
+            var b = a++;
+           alert(a);
+
+      result = 5
+        
+        (b)  var a = 5;
+            var b = ++a;
+           alert(a);
+
+      result = 6
+
+
+14)
+               
+     var a = 10;
+var b = a++  +  ++a  -  a  +  a++  -  ++a  +  a;
+         10      12    12     12      14      14          
+
+
