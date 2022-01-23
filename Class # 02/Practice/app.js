@@ -219,10 +219,26 @@
 
 // =============================
 
-var students = [ "Ghous" , "Basit" , "Ali"]             
+// var students = [ "Ghous" , "Basit" , "Ali"]             
+
+
+// SPLICE:-                      
+// students.splice(1,1)       // (Starting Point , Deleting Counting , String)              
 
 
 
+// SLICE :-
+// var copyStudents = students.slice(1,4)         //(Starting Point,Ending Point)
+                                                    // (Index number,Length)
+                                                    //For the copy use Slice
+
+//  console.log(students)
+// console.log(copyStudents)
 
 
- console.log(students)
+
+//                         =============================
+
+//                           CHAPTER # 17 => COMPLETE
+
+//                         =============================
