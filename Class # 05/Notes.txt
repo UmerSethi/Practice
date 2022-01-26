@@ -1,3 +1,22 @@
 Video Duration : 1:50:08
 
 Vide Number :- 15
+
+
+FUNCTION :
+1) What is function ?
+2) General syntax
+3)single parameter and pass argument call k time py ...
+
+4)Pass multiple parameters
+5)argument pass krky function ko value dety ho...
+6)function sy value ly bhi skty ho...RETURN ka keyword use krky ...
+7) jb jb aap return ka keyword use kryn gy ...to ap esko ek variable k andr save kryn gy ...function call ko or phir os variable sy aap kam lyn gyn....
+
+
+
+GLOBAL & LOCAL VARIABLES :-
+
+GLOBAL VARIABLES : with in the function or globally...
+
+LOCAL VARIABLES : Only use inside the function ...not globaly use

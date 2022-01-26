@@ -1,0 +1,15 @@
+Video Duration:-   1:56:39
+
+Video Number :-   16
+
+CHAPTER # 41 (START)
+
+(1)  WHILE LOOP
+(2)  DO...WHILE LOOP
+(3)  EVENTS
+
+=> EVENT is an attribute of HTML tag
+
+=> "#" ...to refrest the page
+
+=> 
