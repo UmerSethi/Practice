@@ -12,4 +12,8 @@ CHAPTER # 41 (START)
 
 => "#" ...to refrest the page
 
-=> 
+=> IMPORTANT :-
+
+            Onclick = 'alert("")'
+OR
+            Onclick = "alert('')"
