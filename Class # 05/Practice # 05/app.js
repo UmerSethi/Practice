@@ -174,6 +174,10 @@
 
 
 
+//     =======================================================================================
+//                CHAPTER # 38 :- Functions: Local vs. global variables
+//     =======================================================================================
+
 // GLOBAL & LOCAL VARIABLES :-
 
 // GLOBAL VARIABLES : with in the function or globally...
@@ -243,3 +247,142 @@
 
 // ----------------------------------------------------------------------------------------------------------------------------
 
+// _________________
+// CONCEPTUAL :-
+// _________________
+
+
+
+
+
+
+
+// var a = "Ghous"
+
+// function foo (){
+//     a = "Ahmed"
+// }
+// foo()
+// console.log(a);
+
+
+
+// -------------------------------------------------------------------------------------
+
+
+// CALCULATOR USING FUNCTION :-
+
+
+// function calc(num1,opr,num2){
+//     if(opr === "+"){
+//         return num1 + num2
+//     }
+//     else if (opr === "-"){
+//         return num1 - num2
+//     }else {
+//         return "Incorrect operator"
+//     }
+// }
+
+// var result =calc(5,"+",6);
+// var result1 = calc(4,"-",7);
+// var result2 = calc(3,"$",7);                    //INCORRECT OPERATOR
+
+// console.log(result);
+// console.log(result1);
+
+
+// console.log(result2);                       //INCORRECT OPERATOR
+
+
+
+// -----------------------------------------------------------------------------
+
+
+//           AGR VALUE NA MILY TO DEFAULT VALUE UTHA LO ....
+
+
+// function foo (a,b = 3){
+//     return a+b
+// }
+
+// console.log(foo(2))   //
+
+
+
+
+
+
+
+// ================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+//        =================================================================================
+//                      CHAPTER # 39 :- Switch Statements: How to start them
+//        =================================================================================
+
+
+// SWITCH CASE :
+
+//                  IF = > Case ;
+//                  else => default ;
+
+//                  break => lagana zarori h ...werna sb kch run kr dega.
+
+
+
+
+// EXAMPLE # 01 :
+
+// var age = 20 ;
+// switch(age){
+//     case 20:
+//         alert("Allow")
+//         break;
+//         default:
+//             alert("Not allow")
+//             break;
+// }
+
+
+
+// EXAMPLE # 02 :
+
+// var name = "Basit"
+// switch(name){
+//     case "Ghous":
+//         alert("Hello Ghous")
+//         break;
+//         case "Basit":
+//             alert("Hello Basit")
+//             break;
+//             default:
+//                 alert("Hello")
+
+// }
+
+
+
+
+                                                // CHAPTER # 40 
+// =========================================================================================================
+
+
+
+
+
+
+
+//        =================================================================================
+//                                    " COMPLETE "
+//        =================================================================================
