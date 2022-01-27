@@ -17,3 +17,10 @@ CHAPTER # 41 (START)
             Onclick = 'alert("")'
 OR
             Onclick = "alert('')"
+
+
+
+IMPORTANTS GET VALUES :-
+(1) => name            
+(2) => name.value        
+(3) => name.value = ""         
