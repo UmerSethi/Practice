@@ -200,7 +200,7 @@
 //            ============================================================= --> -->
 
  
-// EXAMPLE :-
+// EXAMPLE# 01:-
 
 // function getName(){
 //     var name = document.getElementById("name")
@@ -246,3 +246,47 @@
 //            ============================================================= --> 
 
 
+
+// EXAMPLE# 01:-
+
+// function setName(){
+//    var name = document.getElementById('xyz')
+//    name.value ="Umer"
+// }
+
+// setName() ;
+
+
+// / ---------------------------------------------------------------------------------------
+
+
+// EXAMPLE# 02:-
+
+// function setName(){
+//    var name = document.getElementById('xyz')
+//    name.value ="Umer"
+
+// var para =document.getElementById('para')
+
+// para.innerHTML = "Hello this is an example"
+
+// }
+
+// setName() ; 
+
+
+
+
+ //           =============================================================
+
+                //  CHAPTER # 50 ====> COMPLETE
+                
+//            ============================================================= --> 
+
+
+
+// var a = "Z"
+
+// a.charCodeAt()
+
+// console.log(a)

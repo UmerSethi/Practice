@@ -23,4 +23,15 @@ OR
 IMPORTANTS GET VALUES :-
 (1) => name            
 (2) => name.value        
-(3) => name.value = ""         
+(3) => name.value = ""     
+
+
+
+
+
+
+var a = "Z"
+
+a.charCodeAt()
+
+console.log(a)    
