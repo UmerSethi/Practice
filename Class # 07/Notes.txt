@@ -23,5 +23,35 @@ Video Number :-  18
 
 // }
 
+(5) => image.style.width = '100%'
 
+(6) => change.style.fontSize = '2em'
+
+
+(7) => float ki property direct nhi likhi jati .....====> cssfloat likhna prhta h ....okay!
 	
+
+<!-- document.getElementById("pic99").style.cssFloat = "left";     //=> float ki property direct nhi  
+// 	                                                   //jati .....====> cssfloat likhna prhta  h  ....okay! -->
+
+
+
+(8) ==> document.getElementsByTagName('p')                 //div...span...li
+
+(9) ===>var parent = document.getElementById('parent')
+var para = parent.getElementsByTagName('p') ;
+
+for(var i =0 ; i<para.length; i++){
+    para[i].style.color = 'Purple'
+} 	
+
+
+
+
+
+
+
+
+CHAPTER # 57 COMPLETE :-
+
+

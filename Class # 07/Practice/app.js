@@ -180,3 +180,50 @@
 //                  CHAPTER # 56 :- Target all elements by tag name
 //           ==============================================================
 
+
+
+
+// var para = document.getElementsByTagName('p')                 //div...span...li
+
+// para[2].style.color = 'red'
+
+
+
+// <!-- ----------------------------------------------------------------------------------------------- -->
+
+
+// FOR ALL PARAGRAPHS :-
+
+// var para = document.getElementsByTagName('p')                 //div...span...li
+
+// for(var i =0 ; i<para.length; i++){
+// para[i].style.color = 'blue'
+// }
+
+
+
+
+// ===============================================================================================
+
+
+
+
+
+//           ==============================================================
+//                  CHAPTER # 57 :- Target some elements by tag name
+//           ==============================================================
+
+
+// var parent = document.getElementById('parent')
+// var para = parent.getElementsByTagName('p') ;
+
+// for(var i =0 ; i<para.length; i++){
+//     para[i].style.color = 'Purple'
+// }
+
+
+
+
+
+
+                       // CHAPTER # 57 COMPLETE :-
