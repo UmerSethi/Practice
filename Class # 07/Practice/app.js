@@ -53,66 +53,94 @@
 // <!-- ----------------------------------------------------------------------------------------------- -->
 
 
+// //  <!-- ====> THIRD METHOD :- -->
 
+// function readMore(){
+//     var FIRST = '<ul><li>List1</li><li>List2</li><li>List3</li></ul>'
 
+//     var SECOND = document.getElementById('para')
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// _EXAMPLE #01  :-
-
-// function readMore() {
-    
-//     var text = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem reiciendis nemo atque veritatis architecto vel deserunt harum quo! Alias odio nisi tenetur aliquid nesciunt iste aperiam eligendi asperiores dignissimos itaque?"
-
-//     var paragraph = document.getElementById('para')
-
-//     paragraph.innerHTML = text
+//     SECOND.innerHTML = FIRST
 // }
 
 
 
 
+// ===============================================================================================
+
+
+
+//           ==============================================================
+//                  CHAPTER # 52 :- Manipulating images and text
+//           ==============================================================
+
+
+
+
+// function makeBig(){
+//     var img = document.getElementById('image')
+
+//     img.className += ' hidden'                        //agr pheechly sb classes remove kr wani ho
+//                                                     //   to hm += ...or ' k baad space likhyn gy
+// }
+
+
+
+
+
+
+// ===============================================================================================
+
+
+
+//           ==============================================================
+//                  CHAPTER # 53 :- Swapping images
+//           ==============================================================
+
+
+// function ChangeImage() {
+
+// var carImage = document.getElementById('img')
+
+// carImage.src = './img./car2.jpg'
+
+// }
+
+// function changeImageBefore() {
+
+// var carImage = document.getElementById('img')
+
+// carImage.src = './img./car1.jpeg'
+
+
+// }
+
+
 // <!-- ----------------------------------------------------------------------------------------------- -->
+
+
+                    //   OR
+
+// function ChangeImage(id,src){
+ 
+// var image = document.getElementById(id);
+// image.src = src
+
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

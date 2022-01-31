@@ -6,6 +6,22 @@ Video Number :-  18
              CHAPTER # 51 (start)
        =============================
 
-(1) => innerHTML
+(1) => innerHTML (.value as same as)
 
-(2) => "javascript:void(0)"	
+(2) => "javascript:void(0)"
+
+(3) => <a href="javascript:void(0)" onclick="readMore()">
+
+
+(4) => <img src="./img/car1.jpeg" id="img" onmouseout="ChangeImage('img','./img/car1.jpeg')" onmouseover="ChangeImage('img','./img/car2.jpeg')"   alt="Noimg">
+
+          
+// function ChangeImage(id,src){
+ 
+// var image = document.getElementById(id);
+// image.src = src
+
+// }
+
+
+	
