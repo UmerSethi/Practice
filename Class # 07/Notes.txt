@@ -1,0 +1,11 @@
+Video Duration => 1:55:41
+
+Video Number :-  18
+
+       =============================
+             CHAPTER # 51 (start)
+       =============================
+
+(1) => innerHTML
+
+(2) => "javascript:void(0)"	
