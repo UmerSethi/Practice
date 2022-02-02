@@ -1,3 +1,19 @@
-VIDEO DURATION = 48:38
+VIDEO DURATION = 48:39
 
 NUMBER => 19
+
+(1) => .innerHTML     //Only for <p></p>,<span></span>,<inner>,input (acha input jo h ".innerText")
+
+
+(2) => .innerText      //ONLY for Text
+
+
+(3) => .value         //for input (.innerHTML      also)
+
+
+(4) => <p id="para" class="text blue bold"></p>      <!-- /   for multiple class ...jsy k idhr 2 classes h " text or blue or bold"  --> -->
+
+
+(5) => //  QUESTION :- HOW TO GIVE MULTIPLE CLASSES ? 
+
+ para.className += " bold blue"                        //Assigining operator sy phly "+=" lagy ga or phir " k baad space simple
