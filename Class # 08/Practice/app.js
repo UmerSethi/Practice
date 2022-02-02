@@ -87,12 +87,12 @@
 
 
 
-function addClass(){
+// function addClass(){
 
-    var para = document.getElementById('para')
-    para.className = "bold"
+//     var para = document.getElementById('para')
+//     para.className = "bold"
 
-}
+// }
 
 
 // ===========================================================================================
@@ -100,9 +100,16 @@ function addClass(){
 
 //  QUESTION :- HOW TO GIVE MULTIPLE CLASSES ? 
 
-function addClass(){
+// function addClass(){
 
-    var para = document.getElementById('para')
-    para.className += " bold blue"                        //Assigining operator sy phly "+=" lagy ga or phir " k baad space simple
+//     var para = document.getElementById('para')
+//     para.className += " bold blue"                        //Assigining operator sy phly "+=" lagy ga or phir " k baad space simple
 
-}
+// }
+
+
+
+// ===========================================================================================
+                       
+
+ //                            COMPLETE
