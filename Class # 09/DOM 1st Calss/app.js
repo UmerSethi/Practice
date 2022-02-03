@@ -49,6 +49,9 @@ console.log(a.childNodes[1])
 
 // OR
 
+var a = document.getElementById('pappa')
+console.log(a.firstChild)
+
 
 
 // -------------------------------------------------------------------------------------
