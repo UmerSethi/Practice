@@ -3,10 +3,20 @@
 // Document Object Modle
 
 
+// DOCUMET :- A piece of paper is document ....
+
+
+//WEB :- A browser screen is a document ...what ever we built we render on the screen
+
+
+// OBJECT :- Object is an identity (ek poory herarki ko hm object kehty h ...parent and child relationship) 
+
+
 
 
 
 // html minify             /// y website junk architect remove kry k liye (simple)
+
 
 
 
@@ -31,10 +41,20 @@
 //(8)  .nodeValue
 
 
-//(9)
+//(9)  document.all (or)   document.all[4]
 
 
-//(10)
+//(10)  document.head
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -148,3 +168,8 @@
 
 // var a = document.getElementById('pappa')
 // console.log(a.childNodes[0].nodeValue)
+
+
+// ==================================================================================
+              
+            //              COMPLETE
