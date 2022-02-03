@@ -1,0 +1,20 @@
+
+// Video Duration :- 2:23:33
+
+// Video Number : 21
+
+
+// (1) setInterval => repeatively running => 2 arguments first function & and second time in milliseconds
+
+// (2) setTimeOut => after sometime
+
+
+
+
+// ===========================================================================================
+
+function timer(){
+    console.log('running...')
+}
+
+setInterval(timer,1000)
