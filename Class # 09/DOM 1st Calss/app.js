@@ -2,6 +2,42 @@
 
 // Document Object Modle
 
+
+
+
+
+// html minify             /// y website junk architect remove kry k liye (simple)
+
+
+
+//(1)childNodes[1] ...childNodes[0] ...childNodes[2]
+
+
+//(2)  .firstChild
+
+//(3)  .nextSibling
+
+//(4)  .lastChild
+
+//(5)  .parentNode
+
+
+//(6)   .nodeType    //DEFINE IN TWO PARAMETERS !!!  //FOR ELEMENT => 1....AND FOR JUNK => 3
+
+
+//(7) .nodeName    /// <p></p> m sy "p" ajaye ga...
+
+
+//(8)  .nodeValue
+
+
+//(9)
+
+
+//(10)
+
+
+
 // ==================================================================================
 
 
