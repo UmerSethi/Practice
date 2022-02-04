@@ -1,0 +1,34 @@
+
+         CHAPTER # 64
+
+
+
+
+(1)  // var list = document.getElementById("li1")
+
+  //  console.log(list)
+
+
+// ------------------------------------------------------------------------
+
+
+ (2) // var list = document.getElementsByClassName("li")
+
+//  console.log(list)
+
+
+// ------------------------------------------------------------------------
+
+
+ (3) // var list = document.getElementsByTagName("li")
+
+//  console.log(list[2])
+ 
+
+// ------------------------------------------------------------------------
+
+ (4) // var list = document.getElementsByTagName("li")
+
+//     console.log(list.length)
+
+
