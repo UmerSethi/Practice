@@ -184,9 +184,13 @@
 
 // ------------------------------------------------------------------------
 
+
+
 // var p = document.createElement('h1');
 
 // console.log(p)
+
+
 
 
 // ------------------------------------------------------------------------
@@ -205,6 +209,8 @@
 
 
 
+
+
 // ------------------------------------------------------------------------
 
 
@@ -219,3 +225,60 @@
 // main.appendChild(p) ;                        // Acha idhr "innerHTML" nhi likhyn gy ...object kr ky kch agjye ga! .
 
 
+
+
+// ------------------------------------------------------------------------
+
+
+
+
+// var p = document.createElement('p')
+// var text = document.createTextNode('Practice Purpose')
+
+// p.appendChild(text)
+
+// var main = document.getElementById('main')
+
+// main.appendChild(p)
+
+
+
+
+// ------------------------------------------------------------------------
+
+
+
+
+// var p = document.createElement('h1');
+// var text = document.createTextNode('Hello Class !')
+
+// p.appendChild(text)
+
+// var main = document.getElementById("practice")
+
+// main.appendChild(p) ;                      
+
+
+
+
+
+//  =====================================================================================
+
+
+
+        //    ==============================
+       //              EXAMPLE :-
+       //     ==============================
+
+
+
+function addMessage(){
+    var val = document.getElementById('val')
+    var p =document.createElement('p')
+    var textNode = document.createTextNode(val.value)
+    p.appendChild(textNode)
+    var messages = document.getElementById('messages')
+    messages.appendChild(p)
+
+
+}
