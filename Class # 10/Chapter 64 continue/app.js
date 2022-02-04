@@ -267,18 +267,30 @@
 
 
         //    ==============================
-       //              EXAMPLE :-
+       //             ACTIVITY :-
        //     ==============================
 
 
 
-function addMessage(){
-    var val = document.getElementById('val')
-    var p =document.createElement('p')
-    var textNode = document.createTextNode(val.value)
-    p.appendChild(textNode)
-    var messages = document.getElementById('messages')
-    messages.appendChild(p)
+// function addMessage(){
+//     var val = document.getElementById('val')
+//     var p =document.createElement('p')
+//     var textNode = document.createTextNode(val.value)
+//     p.appendChild(textNode)
+//     var messages = document.getElementById('messages')
+//     messages.appendChild(p)
+
+//     val.value = ""
 
 
-}
+// }
+
+
+//  =====================================================================================
+
+
+
+
+  //         ==============================
+       //           DOM COMPLETE
+       //     ==============================
