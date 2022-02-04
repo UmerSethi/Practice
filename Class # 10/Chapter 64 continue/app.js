@@ -157,11 +157,65 @@
 
 
           
+
+
          // =============================================================
                 //  CHAPTER # 67:- The DOM : Adding nodes                    <===       "IMPORTANT CHAPTER"
          // =============================================================
 
 
 
+
+
+// var p = document.createElement('p');
+
+// console.log(p)
+
+
+
+// ------------------------------------------------------------------------
+
+
+
+// var p = document.createElement('img');
+
+// console.log(p)
+
+
+// ------------------------------------------------------------------------
+
+// var p = document.createElement('h1');
+
+// console.log(p)
+
+
+// ------------------------------------------------------------------------
+
+ //  QUESTION :-            HOW TO WRITE TEXT ?
+
+
+
+
+// var p = document.createElement('p');
+// var text = document.createTextNode('Hello World !')
+
+// p.appendChild(text)
+
+// console.log(p)
+
+
+
+// ------------------------------------------------------------------------
+
+
+
+// var p = document.createElement('p');
+// var text = document.createTextNode('Hello Saylani !')
+
+// p.appendChild(text)
+
+// var main = document.getElementById("main")
+
+// main.appendChild(p) ;                        // Acha idhr "innerHTML" nhi likhyn gy ...object kr ky kch agjye ga! .
 
 
