@@ -1,2 +1,5 @@
 Video Duration :-  2:21:18
 Video No :- 23
+
+
+method  function ko ab jb kehty h ... jb y object m use hoga
