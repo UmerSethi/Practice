@@ -3,9 +3,9 @@
           //    =================================
 
 
+alert ("Hello World")
 
-
-
+alert("Prepartion form register")
 
 
 
