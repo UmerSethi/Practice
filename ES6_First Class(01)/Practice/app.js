@@ -1,15 +1,72 @@
 
-var name = "Basit"
+// var name = "Basit"
 
-function foo(){
-   name = "Ghous"
-}
+// function foo(){
+//    name = "Ghous"
+// }
 
-foo()
+// foo()
 
-console.log(name)
+// console.log(name)
 
 
 
 // =====================================
 
+// if(true){
+
+//    let name = "ghous"
+
+// }
+
+// console.log(name)
+
+// =========================================
+// =========================================
+
+
+
+
+// var name = "Basit"
+
+// function foo(){
+//    name = "Ghous"
+// }
+
+// foo()
+
+// console.log(name)
+
+
+
+// =====================================
+
+// if(true){
+
+//    let name = "ghous"
+
+// }
+
+// console.log(name)
+
+// var name = "Basit"
+
+// function foo(){
+//    name = "Ghous"
+// }
+
+// foo()
+
+// console.log(name)
+
+
+
+// =====================================
+
+// if(true){
+
+//    let name = "ghous"
+
+// }
+
+// console.log(name)
