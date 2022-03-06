@@ -224,4 +224,14 @@
      console.log("Number 2")
      
      console.log("Number 3")
+   
+     //        =================================================
+     //                    Async or sync
+     //        =================================================
+
+     console.log("Number 1")
+
+     console.log("Number 2")
+     
+     console.log("Number 3")
  
