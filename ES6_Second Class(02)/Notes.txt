@@ -3,3 +3,6 @@ VIDEO # 29 :
 VIDEO DURATION:   2:54:57
 
 ES6 Second Class
+
+
+Acha es video m firebase fetching wagera bhi h...to abhi m skip kr raha ho ....lekin InshAllah jld complete kroon ga !
